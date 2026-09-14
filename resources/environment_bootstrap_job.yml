@@ -1,0 +1,17 @@
+# Decoupled environment bootstrap job.
+#
+# Run this job once per Databricks environment before running Salesforce
+# ingestion or the Designer visual data prep. The SQL is idempotent, so reruns
+# are safe when validating a fresh workspace or repairing missing schemas.
+
+resources:
+  jobs:
+    job_renewal_risk_environment_bootstrap:
+      name: job_renewal_risk_environment_bootstrap_${bundle.target}
+      max_concurrent_runs: 1
+      tasks:
+        - task_key: create_catalog_and_schemas
+          sql_task:
+            file:
+              path: ../setup/00_create_catalog_and_schemas.sql
+            warehouse_id: ${var.sql_warehouse_id}

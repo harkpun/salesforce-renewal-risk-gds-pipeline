@@ -1,0 +1,56 @@
+# Databricks Asset Bundle for the Salesforce Renewal Risk project.
+#
+# The implementation is intentionally Databricks UI-first. This bundle deploys
+# the Salesforce ingestion resource and can deploy the visual job after the
+# Designer file is created and committed from Databricks.
+
+bundle:
+  name: salesforce_renewal_risk_lakeflow
+
+include:
+  - resources/*.yml
+
+variables:
+  catalog:
+    description: Unity Catalog catalog that stores raw, pipeline, gold, and AI tables.
+    default: renewal_risk_lakehouse
+  raw_schema:
+    description: Target-specific schema where Lakeflow Connect writes Salesforce objects.
+    default: raw_sfdc_dev
+  pipeline_schema:
+    description: Schema where Lakeflow Designer publishes prepared, gold, and serving datasets.
+    default: renewal_risk
+  event_schema:
+    description: Schema where Lakeflow event logs are published.
+    default: pipeline_events
+  salesforce_ingestion_event_log:
+    description: Target-specific Lakeflow Connect event log table name.
+    default: lfc_salesforce_ingestion_event_log
+  salesforce_connection:
+    description: Unity Catalog connection object for Salesforce.
+    default: salesforce_renewal_risk_conn
+  sql_warehouse_id:
+    description: SQL warehouse ID used by the decoupled environment bootstrap job and pre-deploy setup script.
+    default: fdc6a95e89ef455f
+
+targets:
+  dev:
+    mode: development
+    default: true
+    variables:
+      catalog: renewal_risk_lakehouse
+      raw_schema: raw_sfdc_dev
+      pipeline_schema: renewal_risk_dev
+      event_schema: pipeline_events
+      salesforce_ingestion_event_log: lfc_salesforce_ingestion_event_log_dev
+
+  prod:
+    mode: production
+    workspace:
+      root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
+    variables:
+      catalog: renewal_risk_lakehouse
+      raw_schema: raw_sfdc_prod
+      pipeline_schema: renewal_risk
+      event_schema: pipeline_events
+      salesforce_ingestion_event_log: lfc_salesforce_ingestion_event_log_prod

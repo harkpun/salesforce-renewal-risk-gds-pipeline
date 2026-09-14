@@ -1,0 +1,106 @@
+AccountNumber,Name,StageName,Amount,CloseDate,Type,Probability,Renewal_Opportunity__c,Expansion_Candidate__c,Days_In_Stage__c
+RR-0001,Acme Analytics Renewal,Qualification,1288000,2026-11-14,Existing Customer - Upgrade,55,true,false,15
+RR-0001,Acme Analytics Expansion Analytics Add-on,Closed Won,560000,2026-12-04,Existing Customer - Upgrade,35,false,true,28
+RR-0002,Burlington Analytics Renewal,Negotiation/Review,110400,2026-11-14,Existing Customer - Upgrade,85,true,false,36
+RR-0002,Burlington Analytics Expansion Analytics Add-on,Negotiation/Review,21600,2026-12-29,Existing Customer - Upgrade,65,false,true,14
+RR-0003,CloudNova Analytics Renewal,Negotiation/Review,1062000,2026-10-05,Existing Customer - Upgrade,85,true,false,36
+RR-0003,CloudNova Analytics Expansion Analytics Add-on,Closed Won,252000,2026-11-19,Existing Customer - Upgrade,20,false,true,28
+RR-0004,DeltaPay Analytics Renewal,Needs Analysis,75000,2027-01-11,Existing Customer - Downgrade,55,true,false,36
+RR-0005,Evergreen Analytics Renewal,Proposal/Price Quote,194400,2026-10-05,Existing Customer - Downgrade,65,true,false,3
+RR-0006,FinEdge Analytics Renewal,Qualification,377600,2027-01-11,Existing Customer - Downgrade,55,true,false,3
+RR-0006,FinEdge Analytics Expansion Analytics Add-on,Qualification,128000,2027-01-31,Existing Customer - Upgrade,65,false,true,14
+RR-0007,GlobeWorks Analytics Renewal,Negotiation/Review,550000,2026-09-21,Existing Customer - Replacement,65,true,false,36
+RR-0007,GlobeWorks Analytics Expansion Analytics Add-on,Proposal/Price Quote,220000,2026-11-05,Existing Customer - Upgrade,20,false,true,14
+RR-0008,HelioSoft Analytics Renewal,Negotiation/Review,129600,2026-11-14,Existing Customer - Replacement,55,true,false,8
+RR-0008,HelioSoft Analytics Expansion Analytics Add-on,Qualification,21600,2027-02-12,Existing Customer - Upgrade,50,false,true,7
+RR-0009,IronBridge Analytics Renewal,Proposal/Price Quote,129600,2026-10-21,Existing Customer - Downgrade,55,true,false,36
+RR-0009,IronBridge Analytics Expansion Analytics Add-on,Negotiation/Review,33600,2026-11-10,Existing Customer - Upgrade,90,false,true,14
+RR-0010,Jupiter Analytics Renewal,Negotiation/Review,180000,2026-10-21,Existing Customer - Replacement,65,true,false,24
+RR-0010,Jupiter Analytics Expansion Analytics Add-on,Proposal/Price Quote,50400,2026-11-10,Existing Customer - Upgrade,65,false,true,28
+RR-0011,Keystone Analytics Renewal,Qualification,69000,2027-01-11,Existing Customer - Upgrade,35,true,false,36
+RR-0012,Luma Analytics Renewal,Negotiation/Review,129600,2026-10-05,Existing Customer - Downgrade,35,true,false,51
+RR-0012,Luma Analytics Expansion Analytics Add-on,Qualification,21600,2026-10-25,Existing Customer - Upgrade,90,false,true,28
+RR-0013,MetroGrid Analytics Renewal,Needs Analysis,69000,2026-12-07,Existing Customer - Replacement,55,true,false,15
+RR-0013,MetroGrid Analytics Expansion Analytics Add-on,Needs Analysis,21000,2027-03-07,Existing Customer - Upgrade,90,false,true,2
+RR-0014,Northstar Analytics Renewal,Negotiation/Review,649000,2026-12-07,Existing Customer - Upgrade,85,true,false,3
+RR-0015,Orchid Analytics Renewal,Needs Analysis,165600,2026-10-21,Existing Customer - Replacement,45,true,false,24
+RR-0016,Prairie Analytics Renewal,Needs Analysis,900000,2026-09-21,Existing Customer - Downgrade,75,true,false,36
+RR-0016,Prairie Analytics Expansion Analytics Add-on,Qualification,162000,2026-11-05,Existing Customer - Upgrade,50,false,true,28
+RR-0017,Quantum Analytics Renewal,Negotiation/Review,1652000,2026-11-14,Existing Customer - Downgrade,35,true,false,3
+RR-0017,Quantum Analytics Expansion Analytics Add-on,Qualification,252000,2026-12-29,Existing Customer - Upgrade,90,false,true,14
+RR-0018,Riverbend Analytics Renewal,Qualification,594000,2026-12-07,Existing Customer - Upgrade,35,true,false,8
+RR-0018,Riverbend Analytics Expansion Analytics Add-on,Negotiation/Review,154000,2027-01-21,Existing Customer - Upgrade,65,false,true,14
+RR-0019,Summit Analytics Renewal,Qualification,212400,2026-10-05,Existing Customer - Downgrade,75,true,false,15
+RR-0020,TerraFleet Analytics Renewal,Needs Analysis,120000,2027-01-11,Existing Customer - Downgrade,45,true,false,15
+RR-0021,Acme Systems Renewal,Needs Analysis,649000,2027-03-02,Existing Customer - Replacement,85,true,false,36
+RR-0021,Acme Systems Expansion Analytics Add-on,Qualification,220000,2027-05-31,Existing Customer - Upgrade,65,false,true,14
+RR-0022,Burlington Systems Renewal,Negotiation/Review,88500,2026-12-07,Existing Customer - Downgrade,55,true,false,3
+RR-0022,Burlington Systems Expansion Analytics Add-on,Qualification,21000,2027-03-07,Existing Customer - Upgrade,65,false,true,28
+RR-0023,CloudNova Systems Renewal,Proposal/Price Quote,212400,2026-11-14,Existing Customer - Upgrade,85,true,false,3
+RR-0024,DeltaPay Systems Renewal,Needs Analysis,180000,2026-10-05,Existing Customer - Upgrade,85,true,false,8
+RR-0024,DeltaPay Systems Expansion Analytics Add-on,Negotiation/Review,50400,2026-11-19,Existing Customer - Upgrade,50,false,true,2
+RR-0025,Evergreen Systems Renewal,Proposal/Price Quote,377600,2026-09-21,Existing Customer - Upgrade,55,true,false,24
+RR-0026,FinEdge Systems Renewal,Negotiation/Review,649000,2026-11-14,Existing Customer - Replacement,45,true,false,36
+RR-0026,FinEdge Systems Expansion Analytics Add-on,Qualification,99000,2026-12-29,Existing Customer - Upgrade,50,false,true,2
+RR-0027,GlobeWorks Systems Renewal,Negotiation/Review,550000,2026-10-05,Existing Customer - Replacement,75,true,false,8
+RR-0028,HelioSoft Systems Renewal,Negotiation/Review,345600,2026-11-14,Existing Customer - Replacement,65,true,false,36
+RR-0028,HelioSoft Systems Expansion Analytics Add-on,Needs Analysis,57600,2026-12-29,Existing Customer - Upgrade,20,false,true,2
+RR-0029,IronBridge Systems Renewal,Qualification,81000,2026-12-07,Existing Customer - Downgrade,45,true,false,24
+RR-0030,Jupiter Systems Renewal,Proposal/Price Quote,129600,2027-01-11,Existing Customer - Upgrade,65,true,false,15
+RR-0031,Keystone Systems Renewal,Proposal/Price Quote,1288000,2026-09-21,Existing Customer - Downgrade,35,true,false,24
+RR-0031,Keystone Systems Expansion Analytics Add-on,Needs Analysis,560000,2026-11-05,Existing Customer - Upgrade,20,false,true,28
+RR-0032,Luma Systems Renewal,Qualification,1400000,2026-12-07,Existing Customer - Downgrade,55,true,false,8
+RR-0032,Luma Systems Expansion Analytics Add-on,Proposal/Price Quote,560000,2027-03-07,Existing Customer - Upgrade,20,false,true,2
+RR-0033,MetroGrid Systems Renewal,Qualification,1512000,2027-01-11,Existing Customer - Downgrade,65,true,false,8
+RR-0033,MetroGrid Systems Expansion Analytics Add-on,Closed Won,252000,2027-01-31,Existing Customer - Upgrade,35,false,true,7
+RR-0034,Northstar Systems Renewal,Qualification,377600,2026-10-05,Existing Customer - Downgrade,45,true,false,8
+RR-0034,Northstar Systems Expansion Analytics Add-on,Proposal/Price Quote,89600,2027-01-03,Existing Customer - Upgrade,65,false,true,7
+RR-0035,Orchid Systems Renewal,Proposal/Price Quote,320000,2026-10-21,Existing Customer - Replacement,45,true,false,15
+RR-0035,Orchid Systems Expansion Analytics Add-on,Negotiation/Review,57600,2026-12-05,Existing Customer - Upgrade,65,false,true,28
+RR-0036,Prairie Systems Renewal,Proposal/Price Quote,506000,2027-01-11,Existing Customer - Upgrade,55,true,false,8
+RR-0036,Prairie Systems Expansion Analytics Add-on,Negotiation/Review,99000,2027-02-25,Existing Customer - Upgrade,35,false,true,28
+RR-0037,Quantum Systems Renewal,Qualification,129600,2026-10-05,Existing Customer - Downgrade,85,true,false,8
+RR-0037,Quantum Systems Expansion Analytics Add-on,Needs Analysis,33600,2026-10-25,Existing Customer - Upgrade,90,false,true,28
+RR-0038,Riverbend Systems Renewal,Qualification,141600,2026-09-21,Existing Customer - Replacement,75,true,false,15
+RR-0038,Riverbend Systems Expansion Analytics Add-on,Needs Analysis,21600,2026-12-20,Existing Customer - Upgrade,20,false,true,7
+RR-0039,Summit Systems Renewal,Negotiation/Review,81000,2026-10-21,Existing Customer - Upgrade,45,true,false,15
+RR-0039,Summit Systems Expansion Analytics Add-on,Negotiation/Review,30000,2026-12-05,Existing Customer - Upgrade,90,false,true,7
+RR-0040,TerraFleet Systems Renewal,Qualification,649000,2027-01-11,Existing Customer - Downgrade,35,true,false,3
+RR-0040,TerraFleet Systems Expansion Analytics Add-on,Needs Analysis,99000,2027-01-31,Existing Customer - Upgrade,35,false,true,7
+RR-0041,Acme Health Renewal,Negotiation/Review,75000,2026-09-21,Existing Customer - Downgrade,55,true,false,15
+RR-0041,Acme Health Expansion Analytics Add-on,Closed Won,30000,2026-11-05,Existing Customer - Upgrade,35,false,true,14
+RR-0042,Burlington Health Renewal,Needs Analysis,212400,2026-09-21,Existing Customer - Downgrade,85,true,false,3
+RR-0043,CloudNova Health Renewal,Qualification,110400,2026-12-07,Existing Customer - Upgrade,75,true,false,15
+RR-0044,DeltaPay Health Renewal,Qualification,110400,2026-10-21,Existing Customer - Upgrade,65,true,false,36
+RR-0044,DeltaPay Health Expansion Analytics Add-on,Proposal/Price Quote,21600,2026-12-05,Existing Customer - Upgrade,35,false,true,2
+RR-0045,Evergreen Health Renewal,Qualification,180000,2026-12-07,Existing Customer - Upgrade,35,true,false,51
+RR-0045,Evergreen Health Expansion Analytics Add-on,Closed Won,50400,2027-01-21,Existing Customer - Upgrade,20,false,true,2
+RR-0046,FinEdge Health Renewal,Proposal/Price Quote,594000,2026-09-21,Existing Customer - Replacement,65,true,false,51
+RR-0046,FinEdge Health Expansion Analytics Add-on,Negotiation/Review,220000,2026-12-20,Existing Customer - Upgrade,90,false,true,2
+RR-0047,GlobeWorks Health Renewal,Negotiation/Review,1288000,2026-09-21,Existing Customer - Replacement,55,true,false,51
+RR-0047,GlobeWorks Health Expansion Analytics Add-on,Qualification,392000,2026-12-20,Existing Customer - Upgrade,90,false,true,14
+RR-0048,HelioSoft Health Renewal,Negotiation/Review,294400,2026-09-21,Existing Customer - Replacement,45,true,false,51
+RR-0048,HelioSoft Health Expansion Analytics Add-on,Needs Analysis,128000,2026-12-20,Existing Customer - Upgrade,65,false,true,7
+RR-0049,IronBridge Health Renewal,Needs Analysis,69000,2026-12-07,Existing Customer - Upgrade,45,true,false,15
+RR-0049,IronBridge Health Expansion Analytics Add-on,Negotiation/Review,13500,2026-12-27,Existing Customer - Upgrade,35,false,true,2
+RR-0050,Jupiter Health Renewal,Negotiation/Review,212400,2026-12-07,Existing Customer - Upgrade,55,true,false,15
+RR-0050,Jupiter Health Expansion Analytics Add-on,Negotiation/Review,32400,2027-03-07,Existing Customer - Upgrade,90,false,true,28
+RR-0051,Keystone Health Renewal,Proposal/Price Quote,1062000,2026-10-05,Existing Customer - Replacement,85,true,false,8
+RR-0051,Keystone Health Expansion Analytics Add-on,Needs Analysis,252000,2026-10-25,Existing Customer - Upgrade,35,false,true,7
+RR-0052,Luma Health Renewal,Negotiation/Review,1512000,2026-10-21,Existing Customer - Downgrade,85,true,false,36
+RR-0052,Luma Health Expansion Analytics Add-on,Closed Won,252000,2027-01-19,Existing Customer - Upgrade,50,false,true,28
+RR-0053,MetroGrid Health Renewal,Proposal/Price Quote,345600,2026-10-21,Existing Customer - Upgrade,45,true,false,24
+RR-0054,Northstar Health Renewal,Proposal/Price Quote,1652000,2027-01-11,Existing Customer - Upgrade,65,true,false,8
+RR-0054,Northstar Health Expansion Analytics Add-on,Needs Analysis,560000,2027-01-31,Existing Customer - Upgrade,65,false,true,2
+RR-0055,Orchid Health Renewal,Needs Analysis,141600,2026-11-14,Existing Customer - Upgrade,45,true,false,8
+RR-0055,Orchid Health Expansion Analytics Add-on,Proposal/Price Quote,33600,2026-12-04,Existing Customer - Upgrade,90,false,true,14
+RR-0056,Prairie Health Renewal,Qualification,649000,2026-10-21,Existing Customer - Upgrade,45,true,false,3
+RR-0056,Prairie Health Expansion Analytics Add-on,Negotiation/Review,99000,2027-01-19,Existing Customer - Upgrade,50,false,true,2
+RR-0057,Quantum Health Renewal,Proposal/Price Quote,88500,2026-12-07,Existing Customer - Upgrade,55,true,false,36
+RR-0057,Quantum Health Expansion Analytics Add-on,Needs Analysis,13500,2026-12-27,Existing Customer - Upgrade,65,false,true,28
+RR-0058,Riverbend Health Renewal,Needs Analysis,165600,2026-10-21,Existing Customer - Upgrade,35,true,false,3
+RR-0058,Riverbend Health Expansion Analytics Add-on,Qualification,32400,2027-01-19,Existing Customer - Upgrade,90,false,true,2
+RR-0059,Summit Health Renewal,Qualification,345600,2026-09-21,Existing Customer - Replacement,75,true,false,3
+RR-0059,Summit Health Expansion Analytics Add-on,Negotiation/Review,57600,2026-11-05,Existing Customer - Upgrade,35,false,true,2
+RR-0060,TerraFleet Health Renewal,Negotiation/Review,649000,2026-11-14,Existing Customer - Replacement,85,true,false,3
+RR-0060,TerraFleet Health Expansion Analytics Add-on,Negotiation/Review,220000,2027-02-12,Existing Customer - Upgrade,90,false,true,28

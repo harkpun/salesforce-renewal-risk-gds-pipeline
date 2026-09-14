@@ -1,0 +1,132 @@
+AccountNumber,FirstName,LastName,Email,Title,Department,Phone,Is_Decision_Maker__c
+RR-0001,Aarav,Rao,aarav.rao1@acmeanalytics.example.com,VP Customer Success,Operations,+1-555-0001-0001,true
+RR-0001,Anika,Williams,anika.williams2@acmeanalytics.example.com,Director of Operations,Operations,+1-555-0001-0002,true
+RR-0002,Lucas,Patel,lucas.patel1@burlingtonanalytics.example.com,Procurement Manager,Operations,+1-555-0002-0001,false
+RR-0002,Lucas,Sharma,lucas.sharma2@burlingtonanalytics.example.com,Engineering Manager,IT,+1-555-0002-0002,false
+RR-0003,Anika,Patel,anika.patel1@cloudnovaanalytics.example.com,Platform Owner,IT,+1-555-0003-0001,false
+RR-0003,Kabir,Williams,kabir.williams2@cloudnovaanalytics.example.com,Engineering Manager,Operations,+1-555-0003-0002,false
+RR-0003,Olivia,Johnson,olivia.johnson3@cloudnovaanalytics.example.com,Procurement Manager,IT,+1-555-0003-0003,false
+RR-0004,Noah,Chen,noah.chen1@deltapayanalytics.example.com,Head of Data,Data,+1-555-0004-0001,true
+RR-0004,Noah,Williams,noah.williams2@deltapayanalytics.example.com,Platform Owner,Finance,+1-555-0004-0002,false
+RR-0005,Liam,Johnson,liam.johnson1@evergreenanalytics.example.com,VP Customer Success,Operations,+1-555-0005-0001,true
+RR-0005,Anika,Patel,anika.patel2@evergreenanalytics.example.com,Chief Financial Officer,Finance,+1-555-0005-0002,true
+RR-0006,Kabir,Chen,kabir.chen1@finedgeanalytics.example.com,Director of Operations,Data,+1-555-0006-0001,true
+RR-0006,Maya,Williams,maya.williams2@finedgeanalytics.example.com,Procurement Manager,IT,+1-555-0006-0002,false
+RR-0007,Ethan,Johnson,ethan.johnson1@globeworksanalytics.example.com,Platform Owner,Data,+1-555-0007-0001,false
+RR-0007,Sophia,Chen,sophia.chen2@globeworksanalytics.example.com,Chief Technology Officer,Data,+1-555-0007-0002,true
+RR-0008,Aarav,Sharma,aarav.sharma1@heliosoftanalytics.example.com,Director of Operations,IT,+1-555-0008-0001,true
+RR-0008,Ethan,Brown,ethan.brown2@heliosoftanalytics.example.com,Procurement Manager,Operations,+1-555-0008-0002,false
+RR-0008,Liam,Johnson,liam.johnson3@heliosoftanalytics.example.com,Engineering Manager,Finance,+1-555-0008-0003,false
+RR-0009,Kabir,Patel,kabir.patel1@ironbridgeanalytics.example.com,Director of Operations,IT,+1-555-0009-0001,true
+RR-0009,Rohan,Mehta,rohan.mehta2@ironbridgeanalytics.example.com,Director of Operations,Operations,+1-555-0009-0002,true
+RR-0009,Anika,Patel,anika.patel3@ironbridgeanalytics.example.com,VP Customer Success,Data,+1-555-0009-0003,true
+RR-0010,Kabir,Rao,kabir.rao1@jupiteranalytics.example.com,Platform Owner,Operations,+1-555-0010-0001,false
+RR-0010,Maya,Rao,maya.rao2@jupiteranalytics.example.com,Chief Technology Officer,Operations,+1-555-0010-0002,true
+RR-0011,Anika,Williams,anika.williams1@keystoneanalytics.example.com,Engineering Manager,Operations,+1-555-0011-0001,false
+RR-0011,Rohan,Sharma,rohan.sharma2@keystoneanalytics.example.com,Director of Operations,Data,+1-555-0011-0002,true
+RR-0011,Anika,Garcia,anika.garcia3@keystoneanalytics.example.com,VP Customer Success,Data,+1-555-0011-0003,true
+RR-0012,Maya,Kapoor,maya.kapoor1@lumaanalytics.example.com,Platform Owner,Operations,+1-555-0012-0001,false
+RR-0012,Amelia,Chen,amelia.chen2@lumaanalytics.example.com,Director of Operations,Data,+1-555-0012-0002,true
+RR-0013,Noah,Rao,noah.rao1@metrogridanalytics.example.com,Head of Data,Finance,+1-555-0013-0001,true
+RR-0013,Emma,Miller,emma.miller2@metrogridanalytics.example.com,Engineering Manager,Data,+1-555-0013-0002,false
+RR-0014,Maya,Garcia,maya.garcia1@northstaranalytics.example.com,Director of Operations,Operations,+1-555-0014-0001,true
+RR-0014,Anika,Patel,anika.patel2@northstaranalytics.example.com,Engineering Manager,IT,+1-555-0014-0002,false
+RR-0015,Isha,Kapoor,isha.kapoor1@orchidanalytics.example.com,Chief Financial Officer,Operations,+1-555-0015-0001,true
+RR-0015,Maya,Miller,maya.miller2@orchidanalytics.example.com,Platform Owner,IT,+1-555-0015-0002,false
+RR-0016,Olivia,Garcia,olivia.garcia1@prairieanalytics.example.com,VP Customer Success,IT,+1-555-0016-0001,true
+RR-0016,Noah,Williams,noah.williams2@prairieanalytics.example.com,Chief Technology Officer,Finance,+1-555-0016-0002,true
+RR-0016,Rohan,Rao,rohan.rao3@prairieanalytics.example.com,VP Customer Success,Finance,+1-555-0016-0003,true
+RR-0017,Olivia,Singh,olivia.singh1@quantumanalytics.example.com,Chief Technology Officer,Finance,+1-555-0017-0001,true
+RR-0017,Sophia,Garcia,sophia.garcia2@quantumanalytics.example.com,Chief Financial Officer,Data,+1-555-0017-0002,true
+RR-0018,Ethan,Kapoor,ethan.kapoor1@riverbendanalytics.example.com,Chief Technology Officer,Operations,+1-555-0018-0001,true
+RR-0018,Anika,Singh,anika.singh2@riverbendanalytics.example.com,Engineering Manager,Operations,+1-555-0018-0002,false
+RR-0019,Sophia,Kapoor,sophia.kapoor1@summitanalytics.example.com,Platform Owner,Data,+1-555-0019-0001,false
+RR-0019,Maya,Singh,maya.singh2@summitanalytics.example.com,Head of Data,Operations,+1-555-0019-0002,true
+RR-0020,Noah,Sharma,noah.sharma1@terrafleetanalytics.example.com,VP Customer Success,IT,+1-555-0020-0001,true
+RR-0020,Aarav,Johnson,aarav.johnson2@terrafleetanalytics.example.com,Procurement Manager,Finance,+1-555-0020-0002,false
+RR-0021,Sophia,Johnson,sophia.johnson1@acmesystems.example.com,Director of Operations,IT,+1-555-0021-0001,true
+RR-0021,Noah,Miller,noah.miller2@acmesystems.example.com,Chief Financial Officer,Data,+1-555-0021-0002,true
+RR-0021,Isha,Singh,isha.singh3@acmesystems.example.com,Procurement Manager,IT,+1-555-0021-0003,false
+RR-0022,Rohan,Chen,rohan.chen1@burlingtonsystems.example.com,Director of Operations,Operations,+1-555-0022-0001,true
+RR-0022,Lucas,Williams,lucas.williams2@burlingtonsystems.example.com,Procurement Manager,IT,+1-555-0022-0002,false
+RR-0022,Maya,Chen,maya.chen3@burlingtonsystems.example.com,Engineering Manager,IT,+1-555-0022-0003,false
+RR-0023,Rohan,Kapoor,rohan.kapoor1@cloudnovasystems.example.com,VP Customer Success,IT,+1-555-0023-0001,true
+RR-0023,Maya,Sharma,maya.sharma2@cloudnovasystems.example.com,VP Customer Success,Finance,+1-555-0023-0002,true
+RR-0024,Mia,Chen,mia.chen1@deltapaysystems.example.com,Head of Data,IT,+1-555-0024-0001,true
+RR-0024,Isha,Miller,isha.miller2@deltapaysystems.example.com,Platform Owner,Data,+1-555-0024-0002,false
+RR-0024,Liam,Johnson,liam.johnson3@deltapaysystems.example.com,VP Customer Success,IT,+1-555-0024-0003,true
+RR-0025,Amelia,Singh,amelia.singh1@evergreensystems.example.com,Engineering Manager,IT,+1-555-0025-0001,false
+RR-0025,Isha,Sharma,isha.sharma2@evergreensystems.example.com,Chief Financial Officer,Operations,+1-555-0025-0002,true
+RR-0026,Aarav,Garcia,aarav.garcia1@finedgesystems.example.com,Director of Operations,Data,+1-555-0026-0001,true
+RR-0026,Lucas,Chen,lucas.chen2@finedgesystems.example.com,VP Customer Success,IT,+1-555-0026-0002,true
+RR-0027,Isha,Johnson,isha.johnson1@globeworkssystems.example.com,Chief Technology Officer,IT,+1-555-0027-0001,true
+RR-0027,Rohan,Brown,rohan.brown2@globeworkssystems.example.com,VP Customer Success,Finance,+1-555-0027-0002,true
+RR-0028,Sophia,Miller,sophia.miller1@heliosoftsystems.example.com,Chief Technology Officer,Finance,+1-555-0028-0001,true
+RR-0028,Liam,Johnson,liam.johnson2@heliosoftsystems.example.com,Chief Technology Officer,Operations,+1-555-0028-0002,true
+RR-0029,Liam,Sharma,liam.sharma1@ironbridgesystems.example.com,VP Customer Success,IT,+1-555-0029-0001,true
+RR-0029,Mia,Singh,mia.singh2@ironbridgesystems.example.com,Platform Owner,IT,+1-555-0029-0002,false
+RR-0030,Kabir,Rao,kabir.rao1@jupitersystems.example.com,Procurement Manager,Data,+1-555-0030-0001,false
+RR-0030,Maya,Miller,maya.miller2@jupitersystems.example.com,Head of Data,IT,+1-555-0030-0002,true
+RR-0031,Noah,Rao,noah.rao1@keystonesystems.example.com,Chief Financial Officer,IT,+1-555-0031-0001,true
+RR-0031,Liam,Rao,liam.rao2@keystonesystems.example.com,Platform Owner,Operations,+1-555-0031-0002,false
+RR-0032,Maya,Brown,maya.brown1@lumasystems.example.com,VP Customer Success,Operations,+1-555-0032-0001,true
+RR-0032,Sophia,Patel,sophia.patel2@lumasystems.example.com,VP Customer Success,Data,+1-555-0032-0002,true
+RR-0033,Amelia,Johnson,amelia.johnson1@metrogridsystems.example.com,Procurement Manager,Operations,+1-555-0033-0001,false
+RR-0033,Amelia,Williams,amelia.williams2@metrogridsystems.example.com,Head of Data,Operations,+1-555-0033-0002,true
+RR-0034,Rohan,Sharma,rohan.sharma1@northstarsystems.example.com,VP Customer Success,Finance,+1-555-0034-0001,true
+RR-0034,Isha,Garcia,isha.garcia2@northstarsystems.example.com,Engineering Manager,IT,+1-555-0034-0002,false
+RR-0035,Liam,Patel,liam.patel1@orchidsystems.example.com,Director of Operations,IT,+1-555-0035-0001,true
+RR-0035,Ethan,Sharma,ethan.sharma2@orchidsystems.example.com,Head of Data,Operations,+1-555-0035-0002,true
+RR-0036,Maya,Rao,maya.rao1@prairiesystems.example.com,Chief Technology Officer,Data,+1-555-0036-0001,true
+RR-0036,Mia,Brown,mia.brown2@prairiesystems.example.com,Procurement Manager,IT,+1-555-0036-0002,false
+RR-0037,Olivia,Rao,olivia.rao1@quantumsystems.example.com,Director of Operations,Operations,+1-555-0037-0001,true
+RR-0037,Ethan,Brown,ethan.brown2@quantumsystems.example.com,VP Customer Success,IT,+1-555-0037-0002,true
+RR-0038,Noah,Sharma,noah.sharma1@riverbendsystems.example.com,Chief Technology Officer,Finance,+1-555-0038-0001,true
+RR-0038,Rohan,Singh,rohan.singh2@riverbendsystems.example.com,Director of Operations,Finance,+1-555-0038-0002,true
+RR-0039,Noah,Johnson,noah.johnson1@summitsystems.example.com,Engineering Manager,IT,+1-555-0039-0001,false
+RR-0039,Maya,Williams,maya.williams2@summitsystems.example.com,Chief Financial Officer,Operations,+1-555-0039-0002,true
+RR-0039,Kabir,Brown,kabir.brown3@summitsystems.example.com,Director of Operations,IT,+1-555-0039-0003,true
+RR-0040,Noah,Sharma,noah.sharma1@terrafleetsystems.example.com,Platform Owner,Data,+1-555-0040-0001,false
+RR-0040,Amelia,Kapoor,amelia.kapoor2@terrafleetsystems.example.com,Head of Data,Operations,+1-555-0040-0002,true
+RR-0041,Emma,Kapoor,emma.kapoor1@acmehealth.example.com,Chief Technology Officer,Finance,+1-555-0041-0001,true
+RR-0041,Emma,Chen,emma.chen2@acmehealth.example.com,Procurement Manager,Data,+1-555-0041-0002,false
+RR-0041,Kabir,Kapoor,kabir.kapoor3@acmehealth.example.com,Platform Owner,Operations,+1-555-0041-0003,false
+RR-0042,Ethan,Williams,ethan.williams1@burlingtonhealth.example.com,Chief Technology Officer,Operations,+1-555-0042-0001,true
+RR-0042,Sophia,Kapoor,sophia.kapoor2@burlingtonhealth.example.com,VP Customer Success,Operations,+1-555-0042-0002,true
+RR-0043,Rohan,Garcia,rohan.garcia1@cloudnovahealth.example.com,Engineering Manager,Data,+1-555-0043-0001,false
+RR-0043,Sophia,Johnson,sophia.johnson2@cloudnovahealth.example.com,Head of Data,Data,+1-555-0043-0002,true
+RR-0044,Lucas,Chen,lucas.chen1@deltapayhealth.example.com,Engineering Manager,Data,+1-555-0044-0001,false
+RR-0044,Liam,Brown,liam.brown2@deltapayhealth.example.com,Chief Technology Officer,Data,+1-555-0044-0002,true
+RR-0045,Isha,Patel,isha.patel1@evergreenhealth.example.com,Director of Operations,Finance,+1-555-0045-0001,true
+RR-0045,Maya,Rao,maya.rao2@evergreenhealth.example.com,VP Customer Success,Operations,+1-555-0045-0002,true
+RR-0046,Amelia,Mehta,amelia.mehta1@finedgehealth.example.com,Chief Technology Officer,Finance,+1-555-0046-0001,true
+RR-0046,Amelia,Garcia,amelia.garcia2@finedgehealth.example.com,Chief Financial Officer,IT,+1-555-0046-0002,true
+RR-0047,Isha,Johnson,isha.johnson1@globeworkshealth.example.com,Engineering Manager,IT,+1-555-0047-0001,false
+RR-0047,Noah,Williams,noah.williams2@globeworkshealth.example.com,Chief Financial Officer,Operations,+1-555-0047-0002,true
+RR-0048,Aarav,Brown,aarav.brown1@heliosofthealth.example.com,Director of Operations,Data,+1-555-0048-0001,true
+RR-0048,Noah,Rao,noah.rao2@heliosofthealth.example.com,Procurement Manager,Finance,+1-555-0048-0002,false
+RR-0049,Amelia,Williams,amelia.williams1@ironbridgehealth.example.com,Procurement Manager,Finance,+1-555-0049-0001,false
+RR-0049,Liam,Rao,liam.rao2@ironbridgehealth.example.com,Engineering Manager,Data,+1-555-0049-0002,false
+RR-0050,Lucas,Johnson,lucas.johnson1@jupiterhealth.example.com,Chief Financial Officer,IT,+1-555-0050-0001,true
+RR-0050,Anika,Patel,anika.patel2@jupiterhealth.example.com,Platform Owner,Operations,+1-555-0050-0002,false
+RR-0051,Mia,Singh,mia.singh1@keystonehealth.example.com,Chief Financial Officer,Operations,+1-555-0051-0001,true
+RR-0051,Sophia,Brown,sophia.brown2@keystonehealth.example.com,Chief Technology Officer,Finance,+1-555-0051-0002,true
+RR-0051,Kabir,Chen,kabir.chen3@keystonehealth.example.com,Head of Data,Operations,+1-555-0051-0003,true
+RR-0052,Lucas,Garcia,lucas.garcia1@lumahealth.example.com,Head of Data,IT,+1-555-0052-0001,true
+RR-0052,Anika,Johnson,anika.johnson2@lumahealth.example.com,Chief Technology Officer,Data,+1-555-0052-0002,true
+RR-0053,Sophia,Kapoor,sophia.kapoor1@metrogridhealth.example.com,VP Customer Success,Operations,+1-555-0053-0001,true
+RR-0053,Lucas,Brown,lucas.brown2@metrogridhealth.example.com,VP Customer Success,IT,+1-555-0053-0002,true
+RR-0054,Rohan,Kapoor,rohan.kapoor1@northstarhealth.example.com,Director of Operations,IT,+1-555-0054-0001,true
+RR-0054,Lucas,Brown,lucas.brown2@northstarhealth.example.com,Chief Technology Officer,Finance,+1-555-0054-0002,true
+RR-0055,Ethan,Patel,ethan.patel1@orchidhealth.example.com,VP Customer Success,Operations,+1-555-0055-0001,true
+RR-0055,Sophia,Kapoor,sophia.kapoor2@orchidhealth.example.com,Chief Financial Officer,IT,+1-555-0055-0002,true
+RR-0056,Amelia,Sharma,amelia.sharma1@prairiehealth.example.com,VP Customer Success,IT,+1-555-0056-0001,true
+RR-0056,Isha,Williams,isha.williams2@prairiehealth.example.com,Head of Data,Data,+1-555-0056-0002,true
+RR-0057,Isha,Chen,isha.chen1@quantumhealth.example.com,Procurement Manager,Operations,+1-555-0057-0001,false
+RR-0057,Sophia,Brown,sophia.brown2@quantumhealth.example.com,Director of Operations,IT,+1-555-0057-0002,true
+RR-0058,Anika,Brown,anika.brown1@riverbendhealth.example.com,Head of Data,Operations,+1-555-0058-0001,true
+RR-0058,Lucas,Mehta,lucas.mehta2@riverbendhealth.example.com,Director of Operations,Data,+1-555-0058-0002,true
+RR-0059,Noah,Sharma,noah.sharma1@summithealth.example.com,Chief Financial Officer,Operations,+1-555-0059-0001,true
+RR-0059,Ethan,Miller,ethan.miller2@summithealth.example.com,VP Customer Success,IT,+1-555-0059-0002,true
+RR-0060,Ethan,Kapoor,ethan.kapoor1@terrafleethealth.example.com,Procurement Manager,Operations,+1-555-0060-0001,false
+RR-0060,Isha,Chen,isha.chen2@terrafleethealth.example.com,Head of Data,Finance,+1-555-0060-0002,true

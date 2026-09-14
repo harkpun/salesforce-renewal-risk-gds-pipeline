@@ -1,0 +1,61 @@
+Name,AccountNumber,Industry,Type,Rating,AnnualRevenue,NumberOfEmployees,BillingCountryCode,BillingStateCode,Website,Customer_Segment__c,ARR__c,Renewal_Date__c
+Acme Analytics,RR-0001,Retail,Customer - Direct,Hot,14000000,900,US,TX,https://acmeanalytics.example.com,Enterprise,1400000,2026-11-14
+Burlington Analytics,RR-0002,Education,Customer - Direct,Hot,960000,4200,US,NY,https://burlingtonanalytics.example.com,Commercial,120000,2026-11-14
+CloudNova Analytics,RR-0003,Logistics,Customer - Direct,Hot,10800000,900,US,TX,https://cloudnovaanalytics.example.com,Enterprise,900000,2026-10-05
+DeltaPay Analytics,RR-0004,Financial Services,Customer - Direct,Warm,750000,180,US,GA,https://deltapayanalytics.example.com,Commercial,75000,2027-01-11
+Evergreen Analytics,RR-0005,Energy,Customer - Direct,Cold,1440000,450,US,NY,https://evergreenanalytics.example.com,Commercial,180000,2026-10-05
+FinEdge Analytics,RR-0006,Healthcare,Customer - Direct,Hot,3200000,450,US,NY,https://finedgeanalytics.example.com,Mid-Market,320000,2027-01-11
+GlobeWorks Analytics,RR-0007,Manufacturing,Customer - Direct,Warm,5500000,4200,US,GA,https://globeworksanalytics.example.com,Mid-Market,550000,2026-09-21
+HelioSoft Analytics,RR-0008,Energy,Customer - Direct,Warm,1200000,1800,US,IL,https://heliosoftanalytics.example.com,Commercial,120000,2026-11-14
+IronBridge Analytics,RR-0009,Financial Services,Customer - Direct,Cold,1200000,4200,US,GA,https://ironbridgeanalytics.example.com,Commercial,120000,2026-10-21
+Jupiter Analytics,RR-0010,Manufacturing,Customer - Direct,Warm,1800000,900,US,NY,https://jupiteranalytics.example.com,Commercial,180000,2026-10-21
+Keystone Analytics,RR-0011,Energy,Customer - Direct,Cold,900000,180,US,NY,https://keystoneanalytics.example.com,Commercial,75000,2027-01-11
+Luma Analytics,RR-0012,Technology,Customer - Direct,Cold,1800000,900,US,GA,https://lumaanalytics.example.com,Commercial,120000,2026-10-05
+MetroGrid Analytics,RR-0013,Manufacturing,Customer - Direct,Warm,600000,80,US,IL,https://metrogridanalytics.example.com,Commercial,75000,2026-12-07
+Northstar Analytics,RR-0014,Financial Services,Customer - Direct,Hot,4400000,80,US,CA,https://northstaranalytics.example.com,Mid-Market,550000,2026-12-07
+Orchid Analytics,RR-0015,Financial Services,Customer - Direct,Cold,2160000,180,US,IL,https://orchidanalytics.example.com,Commercial,180000,2026-10-21
+Prairie Analytics,RR-0016,Education,Customer - Direct,Warm,13500000,900,US,TX,https://prairieanalytics.example.com,Enterprise,900000,2026-09-21
+Quantum Analytics,RR-0017,Technology,Customer - Direct,Hot,21000000,900,US,TX,https://quantumanalytics.example.com,Enterprise,1400000,2026-11-14
+Riverbend Analytics,RR-0018,Financial Services,Customer - Direct,Warm,5500000,1800,US,WA,https://riverbendanalytics.example.com,Mid-Market,550000,2026-12-07
+Summit Analytics,RR-0019,Healthcare,Customer - Direct,Cold,1800000,4200,US,WA,https://summitanalytics.example.com,Commercial,180000,2026-10-05
+TerraFleet Analytics,RR-0020,Retail,Customer - Direct,Cold,1200000,1800,US,CA,https://terrafleetanalytics.example.com,Commercial,120000,2027-01-11
+Acme Systems,RR-0021,Retail,Customer - Direct,Hot,6600000,450,US,MA,https://acmesystems.example.com,Mid-Market,550000,2027-03-02
+Burlington Systems,RR-0022,Financial Services,Customer - Direct,Warm,1125000,180,US,IL,https://burlingtonsystems.example.com,Commercial,75000,2026-12-07
+CloudNova Systems,RR-0023,Technology,Customer - Direct,Hot,2160000,4200,US,CA,https://cloudnovasystems.example.com,Commercial,180000,2026-11-14
+DeltaPay Systems,RR-0024,Education,Customer - Direct,Cold,2700000,4200,US,NY,https://deltapaysystems.example.com,Commercial,180000,2026-10-05
+Evergreen Systems,RR-0025,Technology,Customer - Direct,Warm,3840000,900,US,MA,https://evergreensystems.example.com,Mid-Market,320000,2026-09-21
+FinEdge Systems,RR-0026,Technology,Customer - Direct,Cold,6600000,80,US,TX,https://finedgesystems.example.com,Mid-Market,550000,2026-11-14
+GlobeWorks Systems,RR-0027,Manufacturing,Customer - Direct,Cold,5500000,80,US,MA,https://globeworkssystems.example.com,Mid-Market,550000,2026-10-05
+HelioSoft Systems,RR-0028,Retail,Customer - Direct,Warm,4800000,900,US,GA,https://heliosoftsystems.example.com,Mid-Market,320000,2026-11-14
+IronBridge Systems,RR-0029,Manufacturing,Customer - Direct,Warm,1125000,180,US,IL,https://ironbridgesystems.example.com,Commercial,75000,2026-12-07
+Jupiter Systems,RR-0030,Energy,Customer - Direct,Cold,1800000,450,US,IL,https://jupitersystems.example.com,Commercial,120000,2027-01-11
+Keystone Systems,RR-0031,Energy,Customer - Direct,Hot,11200000,80,US,GA,https://keystonesystems.example.com,Enterprise,1400000,2026-09-21
+Luma Systems,RR-0032,Manufacturing,Customer - Direct,Hot,21000000,180,US,GA,https://lumasystems.example.com,Enterprise,1400000,2026-12-07
+MetroGrid Systems,RR-0033,Logistics,Customer - Direct,Cold,11200000,900,US,GA,https://metrogridsystems.example.com,Enterprise,1400000,2027-01-11
+Northstar Systems,RR-0034,Energy,Customer - Direct,Cold,3200000,180,US,GA,https://northstarsystems.example.com,Mid-Market,320000,2026-10-05
+Orchid Systems,RR-0035,Energy,Customer - Direct,Hot,4800000,4200,US,CA,https://orchidsystems.example.com,Mid-Market,320000,2026-10-21
+Prairie Systems,RR-0036,Retail,Customer - Direct,Warm,8250000,1800,US,IL,https://prairiesystems.example.com,Mid-Market,550000,2027-01-11
+Quantum Systems,RR-0037,Financial Services,Customer - Direct,Warm,1440000,180,US,MA,https://quantumsystems.example.com,Commercial,120000,2026-10-05
+Riverbend Systems,RR-0038,Technology,Customer - Direct,Hot,1440000,180,US,TX,https://riverbendsystems.example.com,Commercial,120000,2026-09-21
+Summit Systems,RR-0039,Healthcare,Customer - Direct,Warm,600000,80,US,WA,https://summitsystems.example.com,Commercial,75000,2026-10-21
+TerraFleet Systems,RR-0040,Financial Services,Customer - Direct,Hot,8250000,80,US,TX,https://terrafleetsystems.example.com,Mid-Market,550000,2027-01-11
+Acme Health,RR-0041,Retail,Customer - Direct,Hot,750000,4200,US,MA,https://acmehealth.example.com,Commercial,75000,2026-09-21
+Burlington Health,RR-0042,Financial Services,Customer - Direct,Cold,2700000,4200,US,WA,https://burlingtonhealth.example.com,Commercial,180000,2026-09-21
+CloudNova Health,RR-0043,Financial Services,Customer - Direct,Cold,1200000,450,US,CA,https://cloudnovahealth.example.com,Commercial,120000,2026-12-07
+DeltaPay Health,RR-0044,Financial Services,Customer - Direct,Cold,1200000,450,US,GA,https://deltapayhealth.example.com,Commercial,120000,2026-10-21
+Evergreen Health,RR-0045,Financial Services,Customer - Direct,Cold,1440000,180,US,WA,https://evergreenhealth.example.com,Commercial,180000,2026-12-07
+FinEdge Health,RR-0046,Energy,Customer - Direct,Hot,8250000,450,US,GA,https://finedgehealth.example.com,Mid-Market,550000,2026-09-21
+GlobeWorks Health,RR-0047,Energy,Customer - Direct,Warm,14000000,4200,US,TX,https://globeworkshealth.example.com,Enterprise,1400000,2026-09-21
+HelioSoft Health,RR-0048,Logistics,Customer - Direct,Hot,3200000,180,US,IL,https://heliosofthealth.example.com,Mid-Market,320000,2026-09-21
+IronBridge Health,RR-0049,Technology,Customer - Direct,Cold,750000,900,US,MA,https://ironbridgehealth.example.com,Commercial,75000,2026-12-07
+Jupiter Health,RR-0050,Financial Services,Customer - Direct,Hot,2700000,4200,US,CA,https://jupiterhealth.example.com,Commercial,180000,2026-12-07
+Keystone Health,RR-0051,Logistics,Customer - Direct,Cold,13500000,4200,US,WA,https://keystonehealth.example.com,Enterprise,900000,2026-10-05
+Luma Health,RR-0052,Logistics,Customer - Direct,Warm,21000000,80,US,GA,https://lumahealth.example.com,Enterprise,1400000,2026-10-21
+MetroGrid Health,RR-0053,Logistics,Customer - Direct,Cold,3200000,80,US,CA,https://metrogridhealth.example.com,Mid-Market,320000,2026-10-21
+Northstar Health,RR-0054,Technology,Customer - Direct,Cold,11200000,180,US,MA,https://northstarhealth.example.com,Enterprise,1400000,2027-01-11
+Orchid Health,RR-0055,Logistics,Customer - Direct,Warm,1200000,900,US,CA,https://orchidhealth.example.com,Commercial,120000,2026-11-14
+Prairie Health,RR-0056,Healthcare,Customer - Direct,Hot,8250000,450,US,IL,https://prairiehealth.example.com,Mid-Market,550000,2026-10-21
+Quantum Health,RR-0057,Manufacturing,Customer - Direct,Hot,750000,180,US,MA,https://quantumhealth.example.com,Commercial,75000,2026-12-07
+Riverbend Health,RR-0058,Energy,Customer - Direct,Cold,1440000,1800,US,IL,https://riverbendhealth.example.com,Commercial,180000,2026-10-21
+Summit Health,RR-0059,Manufacturing,Customer - Direct,Cold,3840000,450,US,GA,https://summithealth.example.com,Mid-Market,320000,2026-09-21
+TerraFleet Health,RR-0060,Healthcare,Customer - Direct,Warm,8250000,80,US,NY,https://terrafleethealth.example.com,Mid-Market,550000,2026-11-14

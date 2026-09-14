@@ -1,0 +1,171 @@
+AccountNumber,Subject,Priority,Status,Origin,Reported_Date__c,Resolved_Date__c,SLA_Breached__c
+RR-0001,Delayed support response for priority incident,Critical,New,Web,2026-06-20T15:00:00.000+0000,,false
+RR-0001,Delayed support response for priority incident,Medium,Escalated,Phone,2026-07-05T11:00:00.000+0000,,false
+RR-0001,API latency impacting monthly close,Medium,Working,Phone,2026-06-27T15:00:00.000+0000,,false
+RR-0001,Invoice reconciliation mismatch,Critical,Working,Email,2026-08-23T09:00:00.000+0000,,true
+RR-0002,Unexpected usage spike in integration workload,High,Closed,Phone,2026-06-27T09:00:00.000+0000,2026-07-01T14:00:00.000+0000,false
+RR-0003,SSO login issue for regional team,Low,Working,Email,2026-07-16T11:00:00.000+0000,,false
+RR-0003,Executive dashboard refresh failure,High,Escalated,Web,2026-08-30T11:00:00.000+0000,,false
+RR-0004,Invoice reconciliation mismatch,Medium,Closed,Email,2026-08-20T15:00:00.000+0000,2026-09-05T10:00:00.000+0000,false
+RR-0004,Executive dashboard refresh failure,Medium,Closed,Web,2026-08-02T11:00:00.000+0000,2026-08-08T10:00:00.000+0000,false
+RR-0005,Delayed support response for priority incident,Critical,New,Email,2026-08-29T15:00:00.000+0000,,false
+RR-0005,Data export timeout for analytics team,High,Closed,Web,2026-07-10T11:00:00.000+0000,2026-07-26T10:00:00.000+0000,false
+RR-0005,Renewal reporting discrepancy,Critical,New,Web,2026-06-22T09:00:00.000+0000,,false
+RR-0005,SSO login issue for regional team,Low,Closed,Web,2026-08-05T15:00:00.000+0000,2026-08-20T14:00:00.000+0000,false
+RR-0005,Renewal reporting discrepancy,Medium,Escalated,Phone,2026-07-13T15:00:00.000+0000,,false
+RR-0006,Delayed support response for priority incident,Medium,Closed,Web,2026-08-08T11:00:00.000+0000,2026-08-23T10:00:00.000+0000,false
+RR-0007,Unexpected usage spike in integration workload,Low,New,Email,2026-09-01T15:00:00.000+0000,,false
+RR-0007,Invoice reconciliation mismatch,High,New,Phone,2026-07-14T11:00:00.000+0000,,true
+RR-0007,Data export timeout for analytics team,Critical,Working,Web,2026-08-31T09:00:00.000+0000,,true
+RR-0008,Invoice reconciliation mismatch,High,Escalated,Web,2026-06-29T11:00:00.000+0000,,true
+RR-0008,Renewal reporting discrepancy,Low,Closed,Phone,2026-07-22T11:00:00.000+0000,2026-07-27T14:00:00.000+0000,false
+RR-0008,SSO login issue for regional team,Low,New,Email,2026-07-23T09:00:00.000+0000,,false
+RR-0008,API latency impacting monthly close,Low,Working,Email,2026-07-07T15:00:00.000+0000,,false
+RR-0008,API latency impacting monthly close,Medium,New,Email,2026-06-23T11:00:00.000+0000,,false
+RR-0009,Delayed support response for priority incident,Medium,Escalated,Email,2026-07-30T09:00:00.000+0000,,false
+RR-0009,API latency impacting monthly close,Medium,Escalated,Phone,2026-08-31T15:00:00.000+0000,,false
+RR-0009,Executive dashboard refresh failure,Critical,Closed,Web,2026-08-05T09:00:00.000+0000,2026-08-08T14:00:00.000+0000,false
+RR-0009,Delayed support response for priority incident,Medium,Closed,Web,2026-06-29T11:00:00.000+0000,2026-07-08T14:00:00.000+0000,false
+RR-0010,SSO login issue for regional team,High,Closed,Phone,2026-06-24T09:00:00.000+0000,2026-07-07T10:00:00.000+0000,false
+RR-0010,Executive dashboard refresh failure,Medium,Working,Email,2026-08-11T15:00:00.000+0000,,false
+RR-0010,Data export timeout for analytics team,Critical,Escalated,Web,2026-07-13T11:00:00.000+0000,,false
+RR-0010,Data export timeout for analytics team,Critical,Escalated,Web,2026-07-19T15:00:00.000+0000,,true
+RR-0012,Renewal reporting discrepancy,Medium,Closed,Email,2026-08-24T15:00:00.000+0000,2026-09-07T10:00:00.000+0000,false
+RR-0012,API latency impacting monthly close,High,Escalated,Web,2026-08-18T09:00:00.000+0000,,true
+RR-0013,Executive dashboard refresh failure,Medium,New,Phone,2026-08-31T09:00:00.000+0000,,false
+RR-0013,API latency impacting monthly close,Medium,Closed,Web,2026-08-07T11:00:00.000+0000,2026-08-09T14:00:00.000+0000,false
+RR-0013,Data export timeout for analytics team,Medium,Working,Web,2026-08-08T15:00:00.000+0000,,false
+RR-0013,Delayed support response for priority incident,Medium,Closed,Web,2026-06-26T15:00:00.000+0000,2026-07-11T17:00:00.000+0000,false
+RR-0013,Invoice reconciliation mismatch,Critical,New,Web,2026-07-09T09:00:00.000+0000,,true
+RR-0014,Delayed support response for priority incident,High,Working,Phone,2026-08-03T09:00:00.000+0000,,true
+RR-0014,Executive dashboard refresh failure,Medium,Closed,Web,2026-06-20T11:00:00.000+0000,2026-06-28T10:00:00.000+0000,false
+RR-0014,Invoice reconciliation mismatch,Critical,Closed,Phone,2026-08-26T11:00:00.000+0000,2026-09-10T14:00:00.000+0000,false
+RR-0015,SSO login issue for regional team,High,Closed,Phone,2026-08-18T11:00:00.000+0000,2026-08-29T14:00:00.000+0000,false
+RR-0016,Unexpected usage spike in integration workload,Low,New,Email,2026-08-07T09:00:00.000+0000,,false
+RR-0016,Data export timeout for analytics team,Critical,Escalated,Email,2026-08-25T11:00:00.000+0000,,true
+RR-0016,Invoice reconciliation mismatch,Critical,Closed,Web,2026-08-03T15:00:00.000+0000,2026-08-19T10:00:00.000+0000,false
+RR-0017,Invoice reconciliation mismatch,High,New,Web,2026-08-02T11:00:00.000+0000,,true
+RR-0017,Invoice reconciliation mismatch,Critical,New,Web,2026-06-27T11:00:00.000+0000,,false
+RR-0018,Data export timeout for analytics team,High,New,Phone,2026-06-27T15:00:00.000+0000,,false
+RR-0018,Delayed support response for priority incident,Medium,Working,Phone,2026-08-02T11:00:00.000+0000,,false
+RR-0018,Delayed support response for priority incident,Critical,Closed,Web,2026-07-04T11:00:00.000+0000,2026-07-07T14:00:00.000+0000,false
+RR-0019,API latency impacting monthly close,Critical,Closed,Email,2026-08-19T15:00:00.000+0000,2026-09-06T14:00:00.000+0000,false
+RR-0019,Unexpected usage spike in integration workload,High,Working,Email,2026-07-27T11:00:00.000+0000,,false
+RR-0019,Invoice reconciliation mismatch,Medium,Working,Email,2026-07-23T09:00:00.000+0000,,false
+RR-0019,SSO login issue for regional team,Critical,Working,Web,2026-07-19T15:00:00.000+0000,,true
+RR-0020,Delayed support response for priority incident,Medium,Working,Web,2026-06-28T09:00:00.000+0000,,false
+RR-0022,SSO login issue for regional team,Medium,New,Phone,2026-07-31T11:00:00.000+0000,,false
+RR-0023,Delayed support response for priority incident,High,Closed,Web,2026-06-27T09:00:00.000+0000,2026-07-07T17:00:00.000+0000,false
+RR-0023,Invoice reconciliation mismatch,Medium,New,Phone,2026-07-27T09:00:00.000+0000,,false
+RR-0023,Delayed support response for priority incident,Critical,Closed,Email,2026-06-23T15:00:00.000+0000,2026-06-30T17:00:00.000+0000,false
+RR-0023,Renewal reporting discrepancy,High,Closed,Web,2026-07-08T15:00:00.000+0000,2026-07-17T14:00:00.000+0000,false
+RR-0023,API latency impacting monthly close,Medium,Escalated,Phone,2026-08-13T09:00:00.000+0000,,false
+RR-0024,Unexpected usage spike in integration workload,Medium,Closed,Web,2026-06-23T09:00:00.000+0000,2026-07-02T17:00:00.000+0000,false
+RR-0024,Executive dashboard refresh failure,Critical,New,Web,2026-08-25T15:00:00.000+0000,,false
+RR-0024,SSO login issue for regional team,Low,Escalated,Phone,2026-07-11T15:00:00.000+0000,,false
+RR-0025,Executive dashboard refresh failure,Medium,Escalated,Web,2026-08-25T09:00:00.000+0000,,false
+RR-0025,Executive dashboard refresh failure,High,New,Email,2026-07-19T09:00:00.000+0000,,false
+RR-0025,Renewal reporting discrepancy,Critical,New,Web,2026-07-26T15:00:00.000+0000,,false
+RR-0026,Data export timeout for analytics team,Critical,New,Phone,2026-07-21T11:00:00.000+0000,,true
+RR-0026,Renewal reporting discrepancy,High,New,Web,2026-08-25T15:00:00.000+0000,,false
+RR-0026,Executive dashboard refresh failure,Medium,Closed,Email,2026-07-15T09:00:00.000+0000,2026-07-31T17:00:00.000+0000,false
+RR-0026,Invoice reconciliation mismatch,Low,Closed,Phone,2026-08-27T15:00:00.000+0000,2026-09-01T17:00:00.000+0000,false
+RR-0026,Invoice reconciliation mismatch,Medium,New,Phone,2026-07-13T11:00:00.000+0000,,false
+RR-0027,Data export timeout for analytics team,High,Escalated,Web,2026-07-30T15:00:00.000+0000,,true
+RR-0027,Invoice reconciliation mismatch,Medium,New,Web,2026-08-03T09:00:00.000+0000,,false
+RR-0027,Unexpected usage spike in integration workload,Medium,Escalated,Email,2026-06-27T09:00:00.000+0000,,false
+RR-0028,SSO login issue for regional team,Medium,Working,Email,2026-08-10T11:00:00.000+0000,,false
+RR-0029,API latency impacting monthly close,High,Closed,Phone,2026-08-09T11:00:00.000+0000,2026-08-21T14:00:00.000+0000,false
+RR-0029,Invoice reconciliation mismatch,Low,Closed,Phone,2026-08-27T09:00:00.000+0000,2026-09-04T14:00:00.000+0000,false
+RR-0029,SSO login issue for regional team,High,Closed,Email,2026-06-20T11:00:00.000+0000,2026-07-07T14:00:00.000+0000,false
+RR-0029,Invoice reconciliation mismatch,Low,New,Email,2026-07-05T09:00:00.000+0000,,false
+RR-0029,Invoice reconciliation mismatch,Medium,Closed,Web,2026-08-29T09:00:00.000+0000,2026-09-09T10:00:00.000+0000,false
+RR-0030,API latency impacting monthly close,Critical,Working,Web,2026-07-23T09:00:00.000+0000,,true
+RR-0030,SSO login issue for regional team,Low,New,Phone,2026-08-18T11:00:00.000+0000,,false
+RR-0030,Unexpected usage spike in integration workload,Critical,New,Web,2026-08-04T11:00:00.000+0000,,true
+RR-0031,Invoice reconciliation mismatch,Medium,Closed,Web,2026-07-24T11:00:00.000+0000,2026-07-31T10:00:00.000+0000,false
+RR-0031,Renewal reporting discrepancy,High,Closed,Phone,2026-08-01T11:00:00.000+0000,2026-08-19T10:00:00.000+0000,false
+RR-0031,Invoice reconciliation mismatch,High,Escalated,Email,2026-07-27T11:00:00.000+0000,,true
+RR-0031,Invoice reconciliation mismatch,High,Escalated,Email,2026-07-31T09:00:00.000+0000,,true
+RR-0032,Delayed support response for priority incident,High,Closed,Web,2026-08-21T11:00:00.000+0000,2026-09-01T17:00:00.000+0000,false
+RR-0032,API latency impacting monthly close,High,Closed,Email,2026-07-05T09:00:00.000+0000,2026-07-11T17:00:00.000+0000,false
+RR-0032,Renewal reporting discrepancy,High,Escalated,Phone,2026-08-30T11:00:00.000+0000,,false
+RR-0032,Invoice reconciliation mismatch,Low,Closed,Web,2026-08-30T09:00:00.000+0000,2026-09-12T17:00:00.000+0000,false
+RR-0032,Renewal reporting discrepancy,Low,Escalated,Email,2026-08-14T15:00:00.000+0000,,false
+RR-0034,Invoice reconciliation mismatch,Medium,Escalated,Web,2026-08-19T11:00:00.000+0000,,false
+RR-0034,Renewal reporting discrepancy,Critical,New,Phone,2026-08-25T09:00:00.000+0000,,false
+RR-0035,Executive dashboard refresh failure,Medium,Escalated,Phone,2026-08-24T11:00:00.000+0000,,false
+RR-0035,Executive dashboard refresh failure,High,Escalated,Email,2026-07-10T09:00:00.000+0000,,true
+RR-0035,Invoice reconciliation mismatch,Medium,Closed,Phone,2026-08-28T09:00:00.000+0000,2026-09-14T10:00:00.000+0000,false
+RR-0037,API latency impacting monthly close,Medium,Working,Phone,2026-06-25T11:00:00.000+0000,,false
+RR-0037,Executive dashboard refresh failure,Low,Working,Email,2026-07-08T15:00:00.000+0000,,false
+RR-0037,Data export timeout for analytics team,Medium,Closed,Web,2026-07-13T15:00:00.000+0000,2026-07-18T14:00:00.000+0000,false
+RR-0037,SSO login issue for regional team,Medium,Escalated,Web,2026-08-25T15:00:00.000+0000,,false
+RR-0038,Unexpected usage spike in integration workload,Medium,Closed,Phone,2026-08-19T11:00:00.000+0000,2026-08-31T14:00:00.000+0000,false
+RR-0039,Unexpected usage spike in integration workload,Medium,Escalated,Phone,2026-06-25T09:00:00.000+0000,,false
+RR-0041,Invoice reconciliation mismatch,High,Escalated,Phone,2026-08-22T11:00:00.000+0000,,true
+RR-0041,SSO login issue for regional team,Medium,Closed,Phone,2026-07-30T11:00:00.000+0000,2026-08-14T17:00:00.000+0000,false
+RR-0041,Renewal reporting discrepancy,Medium,Working,Email,2026-07-15T09:00:00.000+0000,,false
+RR-0041,SSO login issue for regional team,High,Closed,Web,2026-06-20T11:00:00.000+0000,2026-06-22T10:00:00.000+0000,false
+RR-0042,Delayed support response for priority incident,High,New,Web,2026-08-04T09:00:00.000+0000,,true
+RR-0042,API latency impacting monthly close,Critical,Working,Phone,2026-07-04T15:00:00.000+0000,,false
+RR-0043,Unexpected usage spike in integration workload,Critical,Closed,Phone,2026-08-19T09:00:00.000+0000,2026-09-02T14:00:00.000+0000,false
+RR-0043,SSO login issue for regional team,Low,Closed,Web,2026-07-14T15:00:00.000+0000,2026-07-16T14:00:00.000+0000,false
+RR-0043,Delayed support response for priority incident,Low,Working,Email,2026-07-25T15:00:00.000+0000,,false
+RR-0044,SSO login issue for regional team,High,Escalated,Email,2026-06-23T11:00:00.000+0000,,true
+RR-0044,API latency impacting monthly close,Medium,Closed,Email,2026-07-25T15:00:00.000+0000,2026-07-27T10:00:00.000+0000,false
+RR-0044,Executive dashboard refresh failure,Low,Escalated,Email,2026-08-02T09:00:00.000+0000,,false
+RR-0044,Invoice reconciliation mismatch,Critical,Escalated,Web,2026-08-31T15:00:00.000+0000,,false
+RR-0044,Renewal reporting discrepancy,Critical,New,Web,2026-08-18T09:00:00.000+0000,,true
+RR-0045,Executive dashboard refresh failure,High,Working,Email,2026-08-03T15:00:00.000+0000,,false
+RR-0045,Executive dashboard refresh failure,Low,Escalated,Phone,2026-07-04T15:00:00.000+0000,,false
+RR-0045,Invoice reconciliation mismatch,High,Escalated,Phone,2026-07-17T11:00:00.000+0000,,true
+RR-0046,API latency impacting monthly close,High,Closed,Web,2026-08-16T11:00:00.000+0000,2026-08-21T14:00:00.000+0000,false
+RR-0046,Invoice reconciliation mismatch,Critical,Working,Email,2026-06-20T09:00:00.000+0000,,false
+RR-0046,Unexpected usage spike in integration workload,Medium,Working,Web,2026-07-11T11:00:00.000+0000,,false
+RR-0046,Invoice reconciliation mismatch,Low,Working,Web,2026-06-25T15:00:00.000+0000,,false
+RR-0047,SSO login issue for regional team,High,Escalated,Web,2026-08-18T15:00:00.000+0000,,false
+RR-0047,SSO login issue for regional team,High,New,Email,2026-07-04T09:00:00.000+0000,,true
+RR-0047,SSO login issue for regional team,Medium,Closed,Phone,2026-07-31T11:00:00.000+0000,2026-08-12T10:00:00.000+0000,false
+RR-0047,Data export timeout for analytics team,High,Closed,Web,2026-07-06T11:00:00.000+0000,2026-07-15T10:00:00.000+0000,false
+RR-0047,Executive dashboard refresh failure,High,New,Phone,2026-07-15T11:00:00.000+0000,,false
+RR-0048,Executive dashboard refresh failure,Medium,New,Web,2026-07-31T15:00:00.000+0000,,false
+RR-0048,Executive dashboard refresh failure,High,Closed,Phone,2026-08-11T11:00:00.000+0000,2026-08-14T10:00:00.000+0000,false
+RR-0048,API latency impacting monthly close,High,Escalated,Email,2026-08-18T09:00:00.000+0000,,true
+RR-0049,SSO login issue for regional team,High,New,Phone,2026-06-28T15:00:00.000+0000,,true
+RR-0049,Invoice reconciliation mismatch,Low,Escalated,Web,2026-08-16T09:00:00.000+0000,,false
+RR-0049,Unexpected usage spike in integration workload,Low,New,Web,2026-07-31T11:00:00.000+0000,,false
+RR-0049,Invoice reconciliation mismatch,Low,Escalated,Email,2026-08-02T11:00:00.000+0000,,false
+RR-0049,API latency impacting monthly close,High,Working,Email,2026-08-19T15:00:00.000+0000,,true
+RR-0050,Executive dashboard refresh failure,High,Closed,Email,2026-07-11T09:00:00.000+0000,2026-07-14T17:00:00.000+0000,false
+RR-0050,Delayed support response for priority incident,Medium,Escalated,Web,2026-07-11T09:00:00.000+0000,,false
+RR-0050,API latency impacting monthly close,Low,Closed,Phone,2026-07-25T15:00:00.000+0000,2026-08-10T14:00:00.000+0000,false
+RR-0050,API latency impacting monthly close,High,Escalated,Phone,2026-08-07T09:00:00.000+0000,,false
+RR-0050,Executive dashboard refresh failure,Low,Closed,Web,2026-09-01T11:00:00.000+0000,2026-09-16T10:00:00.000+0000,false
+RR-0051,Delayed support response for priority incident,High,Escalated,Web,2026-07-30T11:00:00.000+0000,,false
+RR-0052,Executive dashboard refresh failure,Medium,Closed,Phone,2026-07-15T11:00:00.000+0000,2026-07-19T17:00:00.000+0000,false
+RR-0052,Unexpected usage spike in integration workload,Critical,New,Web,2026-07-13T11:00:00.000+0000,,true
+RR-0052,Invoice reconciliation mismatch,Medium,Closed,Phone,2026-07-23T15:00:00.000+0000,2026-08-09T14:00:00.000+0000,false
+RR-0053,API latency impacting monthly close,Medium,Closed,Web,2026-08-25T11:00:00.000+0000,2026-09-04T10:00:00.000+0000,false
+RR-0053,Unexpected usage spike in integration workload,Low,New,Email,2026-06-24T09:00:00.000+0000,,false
+RR-0053,Data export timeout for analytics team,High,Closed,Web,2026-08-17T11:00:00.000+0000,2026-08-21T10:00:00.000+0000,false
+RR-0054,Unexpected usage spike in integration workload,High,Closed,Email,2026-07-23T15:00:00.000+0000,2026-08-05T17:00:00.000+0000,false
+RR-0054,Invoice reconciliation mismatch,Low,Escalated,Phone,2026-06-30T15:00:00.000+0000,,false
+RR-0055,Delayed support response for priority incident,Medium,New,Phone,2026-08-06T15:00:00.000+0000,,false
+RR-0055,SSO login issue for regional team,Low,New,Phone,2026-08-01T15:00:00.000+0000,,false
+RR-0056,Renewal reporting discrepancy,High,Working,Web,2026-08-03T09:00:00.000+0000,,true
+RR-0056,Invoice reconciliation mismatch,High,Closed,Email,2026-07-30T09:00:00.000+0000,2026-08-07T14:00:00.000+0000,false
+RR-0056,Delayed support response for priority incident,Medium,Closed,Web,2026-08-14T09:00:00.000+0000,2026-08-17T14:00:00.000+0000,false
+RR-0056,Executive dashboard refresh failure,High,Closed,Phone,2026-06-27T15:00:00.000+0000,2026-06-30T17:00:00.000+0000,false
+RR-0057,API latency impacting monthly close,Medium,Escalated,Email,2026-08-31T11:00:00.000+0000,,false
+RR-0057,Unexpected usage spike in integration workload,Medium,Closed,Web,2026-07-31T09:00:00.000+0000,2026-08-14T10:00:00.000+0000,false
+RR-0057,Unexpected usage spike in integration workload,High,Escalated,Email,2026-07-17T11:00:00.000+0000,,false
+RR-0057,SSO login issue for regional team,Medium,Escalated,Phone,2026-07-30T11:00:00.000+0000,,false
+RR-0058,Delayed support response for priority incident,Critical,Escalated,Web,2026-08-29T11:00:00.000+0000,,true
+RR-0058,API latency impacting monthly close,Medium,Closed,Email,2026-07-05T11:00:00.000+0000,2026-07-16T14:00:00.000+0000,false
+RR-0058,SSO login issue for regional team,Medium,Working,Web,2026-07-09T15:00:00.000+0000,,false
+RR-0059,API latency impacting monthly close,High,Escalated,Web,2026-08-16T15:00:00.000+0000,,false
+RR-0059,SSO login issue for regional team,Medium,Working,Web,2026-07-20T15:00:00.000+0000,,false
+RR-0060,Delayed support response for priority incident,Medium,Closed,Email,2026-07-10T11:00:00.000+0000,2026-07-26T14:00:00.000+0000,false
+RR-0060,Delayed support response for priority incident,High,Escalated,Email,2026-08-06T15:00:00.000+0000,,false
+RR-0060,Unexpected usage spike in integration workload,High,New,Email,2026-07-01T11:00:00.000+0000,,false

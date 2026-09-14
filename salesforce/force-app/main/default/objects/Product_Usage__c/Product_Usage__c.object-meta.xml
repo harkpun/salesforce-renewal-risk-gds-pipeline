@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Daily product usage telemetry used by the renewal risk data product.</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <label>Product Usage</label>
+    <nameField>
+        <label>Product Usage Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Product Usage</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

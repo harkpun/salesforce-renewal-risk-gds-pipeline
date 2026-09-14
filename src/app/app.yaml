@@ -1,0 +1,13 @@
+command:
+  - streamlit
+  - run
+  - app.py
+env:
+  - name: STREAMLIT_GATHER_USAGE_STATS
+    value: "false"
+  - name: UC_CATALOG
+    value: renewal_risk_lakehouse
+  - name: UC_SCHEMA
+    value: renewal_risk_dev
+  - name: DATABRICKS_WAREHOUSE_ID
+    value: 8487601aba8d461d

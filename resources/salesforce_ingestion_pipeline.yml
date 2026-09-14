@@ -1,0 +1,57 @@
+# Lakeflow Connect managed ingestion pipeline definition.
+#
+# Deploy this resource through the GitHub Actions bundle workflow. After
+# deployment, open it in Jobs & Pipelines to review and run the Lakeflow Connect
+# Salesforce ingestion.
+
+resources:
+  pipelines:
+    lfc_salesforce_ingestion:
+      name: lfc_salesforce_ingestion_${bundle.target}
+      serverless: true
+      continuous: false
+      # Salesforce incremental ingestion is managed by Lakeflow Connect. The
+      # first pipeline run loads the selected objects, and later runs use
+      # Salesforce cursor columns such as SystemModstamp or LastModifiedDate
+      # when those columns are available on the source object.
+      # Required by Lakeflow Connect direct publishing mode. Table-level
+      # destination settings do not replace the pipeline-level defaults.
+      catalog: ${var.catalog}
+      schema: ${var.raw_schema}
+      event_log:
+        catalog: ${var.catalog}
+        schema: ${var.event_schema}
+        name: ${var.salesforce_ingestion_event_log}
+      ingestion_definition:
+        connection_name: ${var.salesforce_connection}
+        objects:
+          - table:
+              source_schema: objects
+              source_table: Account
+              destination_catalog: ${var.catalog}
+              destination_schema: ${var.raw_schema}
+              destination_table: Account
+          - table:
+              source_schema: objects
+              source_table: Contact
+              destination_catalog: ${var.catalog}
+              destination_schema: ${var.raw_schema}
+              destination_table: Contact
+          - table:
+              source_schema: objects
+              source_table: Opportunity
+              destination_catalog: ${var.catalog}
+              destination_schema: ${var.raw_schema}
+              destination_table: Opportunity
+          - table:
+              source_schema: objects
+              source_table: Case
+              destination_catalog: ${var.catalog}
+              destination_schema: ${var.raw_schema}
+              destination_table: Case
+          - table:
+              source_schema: objects
+              source_table: Product_Usage__c
+              destination_catalog: ${var.catalog}
+              destination_schema: ${var.raw_schema}
+              destination_table: Product_Usage__c

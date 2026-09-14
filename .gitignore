@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.databricks/
+.DS_Store
+data/salesforce-bulk/account_id_map.csv
+data/salesforce-bulk/load/Contact.csv
+data/salesforce-bulk/load/Opportunity.csv
+data/salesforce-bulk/load/Case.csv
